@@ -28,4 +28,4 @@ Note:
 Feel free to contribute to the project by improving the model architecture, adding new features, or optimizing the code for better performance.
 
 Author:
-Navaneeth Dubbka 
+Navaneeth Dubbaka 
